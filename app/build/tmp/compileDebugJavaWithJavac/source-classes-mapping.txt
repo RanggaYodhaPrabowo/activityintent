@@ -1,0 +1,6 @@
+com/example/activitydanintent/BuildConfig.java
+ com.example.activitydanintent.BuildConfig
+com/example/activitydanintent/second_activity.java
+ com.example.activitydanintent.second_activity
+com/example/activitydanintent/MainActivity.java
+ com.example.activitydanintent.MainActivity
